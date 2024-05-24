@@ -12,3 +12,5 @@ Welcome to the Weather App! This application allows users to check the current w
 **CSS:** Styling the application to make it visually appealing and responsive.<br>
 **JavaScript:** Adding interactivity and functionality to the app. <br>
 **OpenWeather API:** Fetching real-time weather data and forecasts. <br>
+
+**Link for the app is:** https://satyam-portfolio-delta.vercel.app/weather 
