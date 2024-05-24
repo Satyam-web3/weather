@@ -1,15 +1,14 @@
 # Weather App
 Welcome to the Weather App! This application allows users to check the current weather conditions for any location worldwide. Built with React, HTML, CSS, and JavaScript, this app is both responsive and user-friendly.
 
-# Features
-Current Weather Information: Get real-time weather updates including temperature, humidity, wind speed, and weather conditions.
-Search Functionality: Easily search for the weather in any city around the globe.
-Weather Icons: Visual representation of the weather conditions using icons.
-Geolocation: Automatically fetches the weather information for the user's current location.
+**Features**
+**Current Weather Information**: Get real-time weather updates including temperature, humidity, wind speed, and weather conditions.
+**Search Functionality:** Easily search for the weather in any city around the globe.
+**Weather Icons:** Visual representation of the weather conditions using icons.
 
-# Technologies Used
-React: For building the user interface and managing component state.
-HTML: Markup language for creating the structure of the web pages.
-CSS: Styling the application to make it visually appealing and responsive.
-JavaScript: Adding interactivity and functionality to the app.
-OpenWeather API: Fetching real-time weather data and forecasts.
+**Technologies Used**
+**React:** For building the user interface and managing component state.
+**HTML:** Markup language for creating the structure of the web pages.
+**CSS:** Styling the application to make it visually appealing and responsive.
+**JavaScript:** Adding interactivity and functionality to the app.
+**OpenWeather API:** Fetching real-time weather data and forecasts.
